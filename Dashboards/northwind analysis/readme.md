@@ -3,4 +3,4 @@
 
 Дашборд собран с помощью Yandex DataLens и доступен по [ссылке](https://datalens.yandex.cloud/dhdbfv3fxoh00?state=60df88ea664).
 
-![Анимация5](https://github.com/user-attachments/assets/552df513-cc0c-449b-bc3d-f226806b3c24)
+![Анимация6](https://github.com/user-attachments/assets/c6a0c868-8997-4243-b964-4518e2183167)
